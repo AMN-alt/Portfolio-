@@ -15,4 +15,6 @@ Introduced Into Coding By NESC 3505 At Dalhousie University
 ---
 Coding Examples:
 
-[MRI Visualization](CodeMRI.md)
+[MRI Visualization](CodeMRI.md) 
+|
+[MRI Visualization Output](output.png)
