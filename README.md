@@ -20,3 +20,5 @@ Coding Examples:
 [MRI Visualization Output](output.png)
 
 [Reaction Time Statistical Analysis](RT.md)
+
+[EEG Data Cleanup](EEG.md)
