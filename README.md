@@ -26,3 +26,5 @@ Coding Examples:
 [EEG Data Graph Code](EEGgraph.md)
 |
 [EEG Graph Single Session Output](EEGDatagraph.png)
+
+[Fist Move Chess Analysis](Chess.md)
