@@ -12,4 +12,3 @@ for idx, img in enumerate(range(start_stop, plot_range, step_size)):
 plt.tight_layout()
 plt.show()```
 
-![image](https://github.com/user-attachments/assets/a33c209e-c1ef-4084-8218-2e18321cc0a5)
