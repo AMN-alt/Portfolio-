@@ -22,3 +22,7 @@ Coding Examples:
 [Reaction Time Statistical Analysis](RT.md)
 
 [EEG Data Cleanup](EEG.md)
+|
+[EEG Data Graph Code](EEGgraph.md)
+|
+[EEG Graph Single Session Output](EEGDatagraph.png)
