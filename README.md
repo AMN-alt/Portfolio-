@@ -4,16 +4,16 @@
 
 **|Welcome To My Professional Coding Portfolio|**
 
-I Am:
+**I Am:**
 
 A Neuroscience Student At Dalhousie University
 
-Coding History:
+**Coding History:**
 
 Introduced Into Coding By NESC 3505 At Dalhousie University 
 
 ---
-Coding Examples:
+**Coding Examples:**
 
 [MRI Visualization](CodeMRI.md) 
 |
@@ -28,3 +28,11 @@ Coding Examples:
 [EEG Graph Single Session Output](EEGDatagraph.png)
 
 [Fist Move Chess Analysis](Chess.md)
+
+---
+
+# Contact 
+**Get In Touch:** 
+An656052@dal.ca 
+
+
